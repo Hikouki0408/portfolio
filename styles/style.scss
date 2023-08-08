@@ -299,7 +299,7 @@ body::-webkit-scrollbar-thumb:hover{
                     }
                     p{
                         font-weight: 500;
-                        color: greenyellow;
+                        color: #fb5300;
                         margin-bottom: .5rem;
                         margin-top: .5rem;
                     }
@@ -308,7 +308,7 @@ body::-webkit-scrollbar-thumb:hover{
                     border-radius: initial;
                     padding: .8rem 2rem;
                     background-color: rgba(255, 255, 255, .35);
-                    color: var(--color-white);
+                    color: #fb5300;
                     transition: var(--trans);
                     position: relative;
                     &:hover{
