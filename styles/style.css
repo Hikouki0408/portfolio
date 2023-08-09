@@ -294,7 +294,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 .sec-projects .projects-content .projects .project .text p {
   font-weight: 500;
-  color: greenyellow;
+  color: #fb5300;
   margin-bottom: 0.5rem;
   margin-top: 0.5rem;
 }
@@ -302,7 +302,7 @@ body::-webkit-scrollbar-thumb:hover {
   border-radius: initial;
   padding: 0.8rem 2rem;
   background-color: rgba(255, 255, 255, 0.35);
-  color: var(--color-white);
+  color: #fb5300;
   transition: var(--trans);
   position: relative;
 }
