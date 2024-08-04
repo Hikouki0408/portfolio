@@ -541,6 +541,14 @@ body::-webkit-scrollbar-thumb:hover{
 
 //Medi Querries
 @media screen and (max-width: 1405px) {
+    .sec-about{
+        .about-content{
+            grid-template-columns: repeat(1, 1fr);
+            display: flex; /* Enable Flexbox layout */
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+        }
+    }
     .sidebar{
         width: 100%;
         z-index: 10;
